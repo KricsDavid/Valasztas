@@ -1,0 +1,15 @@
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\bin\Debug\net6.0\KricsfalusiDavid_valasztas.exe
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\bin\Debug\net6.0\KricsfalusiDavid_valasztas.deps.json
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\bin\Debug\net6.0\KricsfalusiDavid_valasztas.runtimeconfig.json
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\bin\Debug\net6.0\KricsfalusiDavid_valasztas.dll
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\bin\Debug\net6.0\KricsfalusiDavid_valasztas.pdb
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.csproj.AssemblyReference.cache
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.AssemblyInfoInputs.cache
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.AssemblyInfo.cs
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.csproj.CoreCompileInputs.cache
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.dll
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\refint\KricsfalusiDavid_valasztas.dll
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.pdb
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\KricsfalusiDavid_valasztas.genruntimeconfig.cache
+C:\Users\kricsfalusi.david\source\repos\KricsfalusiDavid_valasztas\KricsfalusiDavid_valasztas\obj\Debug\net6.0\ref\KricsfalusiDavid_valasztas.dll
